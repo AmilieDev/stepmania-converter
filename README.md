@@ -1,6 +1,8 @@
 # StepMania Converter
 A file converter for .scc files (StepMania) to .nte files for FlyRanking a870ii dance pad mats. This software may not fully work and is beta software. Contributions are appreciated.<br>
 
+This software seemingly does not work.<br>
+
 !!! YOU MUST GET YOUR OWN MP3S !!!
 
 ### Using SMC
